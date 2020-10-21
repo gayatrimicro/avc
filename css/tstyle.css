@@ -227,6 +227,7 @@ background-color: #fff !important;
     font-size: 32px !important;
     text-align: center;
     outline: none;
+        margin-right: 10px;
 }
 .Cuspad6 .owl-next{
 background-color: #fff !important;
@@ -241,7 +242,6 @@ background-color: #fff !important;
 }
 .Cuspad6 .owl-next span{
 	vertical-align: text-bottom;
-	    margin-right: 13px;
 }
 .Cuspad6 .owl-prev span{
 	vertical-align: text-bottom;
@@ -269,7 +269,15 @@ background-color: #fff !important;
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+    transition: 0.8s all;    
+}
+.secBac1:hover{
+	transform: scale(1.3);
 }
 .pad_0{
 	padding: 0px;
+}
+.SecOve{
+	overflow: hidden;
+	transition: 0.8s all;
 }

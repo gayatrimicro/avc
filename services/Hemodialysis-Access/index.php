@@ -98,7 +98,7 @@
                </div>
                <div class="Secti_treat7">
                   <div class="row">
-                     <div class="col-sm-6 pad_0">
+                     <div class="col-sm-6 pad_0 SecOve">
                         <div class="secBac1"></div>
                      </div>
                      <div class="col-sm-6">
@@ -121,7 +121,7 @@
                            <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
                         </div>
                      </div>
-                     <div class="col-sm-6 pad_0">
+                     <div class="col-sm-6 pad_0 SecOve">
                         <div class="secBac1"></div>
                      </div>
                   </div>
