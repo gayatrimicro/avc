@@ -63,6 +63,8 @@
                      </div>
                   </div>
                </div>
+               
+
             <div class="Secti_treat3">
                <div class="SecCon3">
                   <h4>Aesthetics</h4>
@@ -93,6 +95,36 @@
                      </div>
                   </div>
                </div>                  
+               </div>
+               <div class="Secti_treat7">
+                  <div class="row">
+                     <div class="col-sm-6 pad_0">
+                        <div class="secBac1"></div>
+                     </div>
+                     <div class="col-sm-6">
+                        <div class="cusPad7">
+                           <h3>Lorem ipsum dolor sit</h3>
+                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!</p>
+                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!</p>
+                           <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
+                        </div>
+                     </div>                     
+                  </div>
+               </div>
+               <div class="Secti_treat7">
+                  <div class="row">
+                     <div class="col-sm-6">
+                        <div class="cusPad7">
+                           <h3>Lorem ipsum dolor sit</h3>
+                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!</p>
+                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur expedita impedit cumque? Dignissimos quam tempora mollitia unde, nostrum quod fugit, iste ad tenetur non eaque alias eius quos! Numquam, qui!</p>
+                           <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
+                        </div>
+                     </div>
+                     <div class="col-sm-6 pad_0">
+                        <div class="secBac1"></div>
+                     </div>
+                  </div>
                </div>
                <div class="Secti_treat4">
                   <div class="row">                     
@@ -132,34 +164,35 @@
                      <div class="col-sm-6">
                         <div class="Cuspad6">
                            <div class="owl-carousel owl-carousel-vertical">
-    <div class="item">
-      <div>
-         <h3>DENTURIST SERVICES</h3>
-         <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
-         <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
-         <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
-      </div>
-    </div>
-    <div class="item">
-      <div>
-         <h3>INVISALIGN / ORTHODONTICS</h3>
-         <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
-         <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
-      </div>
-    </div>
-    <div class="item">
-      <div>
-         <h3>SMILE DESIGN</h3>
-         <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
-         <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
-         <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
-      </div>
-    </div>
-  </div>
+                               <div class="item">
+                                 <div>
+                                    <h3>DENTURIST SERVICES</h3>
+                                    <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
+                                    <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
+                                    <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
+                                 </div>
+                               </div>
+                               <div class="item">
+                                 <div>
+                                    <h3>INVISALIGN / ORTHODONTICS</h3>
+                                    <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
+                                    <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
+                                 </div>
+                               </div>
+                               <div class="item">
+                                 <div>
+                                    <h3>SMILE DESIGN</h3>
+                                    <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
+                                    <p>Whether for removable partial dentures, complete dentures or dentures over implants, we will provide you with personalized service, starting from the dental consultation all the way to the final completion of the procedure.</p>
+                                    <div class="btn_Anim"><a href="/contacts" class="btn">Learn More</a></div>
+                                 </div>
+                               </div>
+                             </div>
                         </div>
                      </div>
                   </div>
                </div>
+               
          </div>
          <?php 
             include("../../footer.php");

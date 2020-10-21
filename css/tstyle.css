@@ -252,3 +252,24 @@ background-color: #fff !important;
     font-size: 43px;
     margin-bottom: 50px;
 }
+.cusPad7{
+	padding: 80px 50px;
+	background-image: url(http://www.kalawatihospital.com/wp-content/uploads/2016/05/services2-bg.jpg?id=897);
+}
+.cusPad7 h3{
+	    font-size: 28px;
+    font-weight: 700;
+}
+.cusPad7 p{
+	font-size: 15px;
+}
+.secBac1{
+	background-image: url(https://www.nicholsoncenter.com/sites/default/files/2016-12/SL3_lap_setup_mediumshot.jpg);
+	width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pad_0{
+	padding: 0px;
+}
