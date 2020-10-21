@@ -1,0 +1,254 @@
+.Secti_treat1{
+	padding: 75px 50px;
+	padding-bottom: 135px;
+}
+.DefPad{
+	padding: 0px 80px;
+}
+.Secti_treat1 h1{
+	font-size: 50px;
+    line-height: 51px;
+    position: relative;
+}
+.Secti_treat1 h1::after{
+	position: absolute;
+	content: "";
+	width: 100px;
+	height: 5px;
+	background-color: #03adee;
+	top: 50%;
+	transform: translateY(-50%);
+	left: -130px;
+}
+.Secti1Txt{
+	padding-top: 70px;
+	position: relative;
+}
+.Secti1Txt::after{
+    position: absolute;
+    content: "HEMODIALYSIS";
+    bottom: 0;
+    color: hsla(0,0%,85%,.18);
+    font-size: 117px;
+    font-weight: 700;
+    right: 0;
+    z-index: -1;
+}
+.Secti1Txt p{
+	font-size: 15px;
+}
+.btn_Anim .btn{
+	background-color: transparent;
+	color: #03adee !important;
+	border:2px solid #03adee !important;
+	border-radius: 0px;
+}
+.btn_Anim .btn:hover{
+	background-color: transparent !important;
+}
+.btn_Anim{
+	margin-top: 50px;
+}
+.Secti_treat2 h2{
+	    font-size: 41px;
+    margin-bottom: 38px;
+    font-weight: 500;
+    font-family: unset;
+}
+.Secti_treat2 p{
+	font-size: 15px;
+}
+.TitLin{
+	    font-size: 18px !important;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.padLft{
+	padding: 200px 0px 0px 100px;
+	position: relative;
+}
+.titBox{
+	position: absolute;
+	top: 0;
+    right: -31px;
+    width: 50%;
+    height: 100px;
+    background-color: #03adee;
+    color: #fff;
+    padding: 36px 0px;
+    text-align: center;
+}
+.titBox h3{
+	    color: #fff;
+    font-size: 23px;
+    letter-spacing: 1px;
+}
+
+.svg-wrapper {
+  position: relative;
+}
+.shape {
+  stroke-dasharray: 500 30;
+    stroke-dashoffset: -474;
+    stroke-width: 3px;
+    fill: transparent;
+    stroke: #03adee;
+    border-bottom: 5px solid black;
+    transition: stroke-width 1s, stroke-dashoffset 1s, stroke-dasharray 1s;
+    height: 161px;
+}
+.tex {
+  font-size: 22px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    color: #fff;
+    top: 50%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+}
+.svg-wrapper:hover .shape {
+  stroke-width: 3px;
+  stroke-dashoffset: 0;
+  stroke-dasharray: 760 30;
+}
+.Secti_treat3{
+	padding: 75px 0px;
+	    background-position: 50% center, 0px center;
+    background-image: url(https://mvisionclinic.com/wp-content/uploads/2018/03/services-bg.jpg);	
+	position: relative;
+	    height: 600px;
+}
+.Secti_treat3:after{
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+background: rgba(0,0,0,.6);
+top: 0;
+}
+.SecCon3{
+	position: absolute;
+	width: 80%;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 2;
+	text-align: center;
+}
+.SecCon3 h4{
+	    color: #03adee;
+    font-size: 18px;
+    margin-top: 55px;
+
+}
+.SecCon3 h3{
+	color: #fff;
+    font-size: 45px;
+    margin-bottom: 45px;
+	
+}
+.SecCon3 h5{
+	color: #fff;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 30px;
+	
+}
+.w30{
+	display: inline-block;
+	width: 30%;
+	    margin-top: 50px;
+}
+.w30 svg{
+	height: 161px;
+}
+.in_bx{
+	padding: 100px 30px 100px 100px;	
+}
+.in_bx h3{
+	font-size: 41px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    position: relative;
+}
+.Secti_treat4{
+	padding: 30px 0px;
+	background: linear-gradient(-16deg, #00a3d7 -100%, rgba(255,255,255,0) 60%);
+}
+.in_bx h3::after {
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 5px;
+    background-color: #03adee;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -130px;
+}
+.Secti_treat5{
+	    text-align: center;
+    padding: 75px 0px;
+}
+.Secti_treat5 h3{
+	    font-size: 25px;
+    font-style: italic;
+    color: #03adee;
+        margin-bottom: 12px;
+}
+.Secti_treat5 h2{
+	        font-size: 58px;
+	            color: #0c3a60;
+}
+.Secti_treat6{
+	background-color: #005a9c;
+	padding: 75px 100px;
+}
+.item h3{
+	    color: #fff;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.item p{
+	color: #fff;
+	font-size: 15px;
+}
+.Cuspad6{
+	    padding: 70px 0px;
+	    padding-bottom: 0px;
+	}
+.Cuspad6 .owl-prev{
+background-color: #fff !important;
+    width: 50px;
+    height: 50px;
+    font-size: 32px !important;
+    text-align: center;
+    outline: none;
+}
+.Cuspad6 .owl-next{
+background-color: #fff !important;
+    width: 50px;
+    height: 50px;
+    font-size: 32px !important;
+    text-align: center;
+    outline: none;
+}
+.Cuspad6 .owl-nav{
+	margin-top: 45px;
+}
+.Cuspad6 .owl-next span{
+	vertical-align: text-bottom;
+	    margin-right: 13px;
+}
+.Cuspad6 .owl-prev span{
+	vertical-align: text-bottom;
+}
+.Secti_treat6 h2{
+	    text-align: center;
+    color: #fff;
+    font-size: 43px;
+    margin-bottom: 50px;
+}
