@@ -26,12 +26,12 @@
 }
 .Secti1Txt::after{
     position: absolute;
-    content: "HEMODIALYSIS";
+    content: "WHAT";
     bottom: 0;
     color: hsla(0,0%,85%,.18);
     font-size: 117px;
     font-weight: 700;
-    right: 0;
+    right: 35%;
     z-index: -1;
 }
 .Secti1Txt p{
