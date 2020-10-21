@@ -48,20 +48,20 @@
 									
 									<div class="healcode prospect">
 										
-										<form id="">
+										<form id="ConFrm">
 											
 											<div class="hc_prospect">
 												<div class="hc-prospect-field hc-prospect-first-name">
-													<input placeholder="First Name" type="text" name="prospects[first_name]">
+													<input placeholder="First Name" type="text" name="app_fname" id="app_fname" required="">
 												</div>
 												<div class="hc-prospect-field hc-prospect-email">
-													<input placeholder="Email" type="text" name="prospects[email]">
+													<input placeholder="Email" type="email" name="app_email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" id="app_email" required="">
 												</div>
 												<div class="hc-prospect-field hc-prospect-mobile-phone">
-													<input placeholder="Phone Number" type="text" name="prospects[mobile_phone]">
+													<input placeholder="Phone Number" type="text" pattern="[0-9]{10,10}$" maxlength="10" name="app_number" id="app_number" required="">
 												</div>
 												<div class="hc-prospect-field hc-prospect-comment">
-													<textarea rows="6" placeholder="Comment (optional)" name="prospects[notes]" id="prospects_notes"></textarea>
+													<textarea rows="6" placeholder="Comment (optional)" name="app_message" id="app_message" required=""></textarea>
 												</div>
 												<div class="hc-actions">
 													<input type="submit" value="Submit" class="submit hc-prospect-submit">
@@ -95,5 +95,37 @@
 					include("../footer.php");
 					?>
 				</div>
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+				<script>
+                    $(document).ready(function() { 
+                        $('#ConFrm').submit(function(event) {
+                          event.preventDefault();
+                          var formdata = $('#ConFrm').serialize();
+                          alert(formdata);
+
+                            if ($('#app_fname').val() != "" && $('#app_number').val() != "" && $('#app_email').val() != "" && $('#app_message').val() != "") {
+                                
+                                 $.ajax({
+                                                  url:'../requestapp.php',
+                                                  type:'POST',
+                                                  data:formdata,
+                                                  success:function(result){ 
+                                                  alert("Information Sent")                                                  
+                                                     
+                                                      $("#app_fname, #app_number, #app_email, #app_message").val("");
+                                                      
+
+                                                  }
+                                        });
+
+                            
+                        }
+                                 else{
+                                  alert("All fields are mandatory");
+                                      }
+                        });
+                    });
+
+                    </script>
 			</body>
 		</html>
