@@ -164,72 +164,7 @@
                   </div>
                </div>
             </section>
-            <section class="services">
-               <svg class="svg-bg" width="1920" height="437" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 437" enable-background="new 0 0 1920 437">
-                  <rect class="st0" width="1920" height="437"/>
-                  <path class="st1" d="M1388.5,325.1c-66.9,7.3-134.2,11-201.5,11c-406.8,0-782.7-48.3-1086.7-255.5C302.6,230,533.7,336,779,391.9 C993.3,389.8,1198.5,373.1,1388.5,325.1z"></path>
-                  <path class="st2" d="M1920,60c-156.6,133.4-336,215.8-531.5,265.1c183.3-20,362.5-67.7,531.5-141.6V60z"></path>
-                  <path class="st3" d="M1920,183.6V285c-212.6,92.9-446.3,146.6-691.9,152c-13.6,0.3-27.3,0.5-41.1,0.5c-13.9,0-27.7-0.2-41.5-0.5 c-123.4-2.7-246.1-17.8-366.5-45.1c214.3-2,419.5-18.8,609.5-66.7C1571.8,305.1,1751,257.4,1920,183.6z"></path>
-                  <path class="st4" d="M1228.1,437h-82.6c-123.4-2.7-246.2-17.8-366.5-45.1C533.7,336,302.6,230,100.3,80.5 c-12.1-8.3-24.1-16.8-36-25.5C42.5,38.9,21,21.9,0,4v235.5V437v27h1920v-27V285C1707.4,377.9,1473.7,431.6,1228.1,437z"></path>
-               </svg>
-               <div class="container-inner">
-                  <div class="row">
-                     <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
-                        <span class="subheading">Whatever your goal, you can achieve it with Vascular Surgeon</span>
-                        <h2>Whatever your goal, you can achieve it with Vascular Surgeon</h2>
-                     </div>
-                  </div>
-                  <div class="service-slider owl-carousel">
-                     <a class="service" href="#">
-                        <img src="img/site/Virtual-Livestream-Classes-Feature.jpg" title="Virtual Livestream Classes" alt="Virtual Livestream Classes">
-                        <h5>Virtual Livestream Classes</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Virtual Training" alt="Virtual Training">
-                        <h5>Virtual Training</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Personal-Training-2.jpg" title="Personal Training" alt="Personal Training">
-                        <h5>Personal Training</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Group-Training-2.jpg" title="Group Training" alt="Group Training">
-                        <h5>Group Training</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Performance Training" alt="Performance Training">
-                        <h5>Performance Training</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Online-Programming-2.jpg" title="Online Programming" alt="Online Programming">
-                        <h5>Online Programming</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Fundamentals-Course.jpg" title="Fundamentals Course" alt="Fundamentals Course">
-                        <h5>Fundamentals Course</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Serivces-Mobile-Personal-Training.jpg" title="Mobile Personal Training" alt="Mobile Personal Training">
-                        <h5>Mobile Personal Training</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Corporate-Fitness-1.jpg" title="Corporate Fitness" alt="Corporate Fitness">
-                        <h5>Corporate Fitness</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Nutrition.jpg" title="Nutrition" alt="Nutrition">
-                        <h5>Nutrition</h5>
-                     </a>
-                     <a class="service" href="#">
-                        <img src="img/site/Home-Services-Physio.jpg" title="Transform Physiotherapy" alt="Transform Physiotherapy">
-                        <h5>Transform Physiotherapy</h5>
-                     </a>
-                  </div>
-                  <div class="text-center">
-                     <a class="btn btn--white spaced" href="#">View All</a>
-                  </div>
-               </div>
-            </section>
+            
             <section>
                <div class="container-inner">
                   <div class="row">
@@ -662,14 +597,14 @@
          <div class="why-box">
             <img  alt=""  data-src="img/why-choose-2.jpg" class="img-fluid lazyload" src="img/why-choose-2.jpg">
             <h3>State-of-the-Art Facilities</h3>
-            <p class="mr-lg-n2">South Bay Vascular brings all aspects of vascular care into a single facility: A medical clinic, an accredited ultrasound lab, and a nationally accredited surgery center. We are dedicated to serving the South Bay community, with offices in both Campbell and Gilroy.</p>
+            <p class="mr-lg-n2">Advanced vascular care brings all aspects of vascular care into a single facility: A medical clinic, an accredited ultrasound lab, and a nationally accredited surgery center. We are dedicated to serving the Advanced vascular care community, with offices in both Campbell and Gilroy.</p>
          </div>
       </div>
       <div class="col-md-4">
          <div class="why-box">
             <img  alt=""  data-src="img/why-choose-3.jpg" class="img-fluid lazyload" src="img/why-choose-3.jpg">
             <h3>Compassionate Care</h3>
-            <p class="">At South Bay Vascular, we get personal. We listen to better understand the “why” behind your symptoms and determine the best solution for you. Our entire staff is friendly and professional—and we can often schedule appointments the same day or within just a few days.</p>
+            <p class="">At Advanced vascular care, we get personal. We listen to better understand the “why” behind your symptoms and determine the best solution for you. Our entire staff is friendly and professional—and we can often schedule appointments the same day or within just a few days.</p>
          </div>
       </div>
    </div>
@@ -784,7 +719,169 @@
     margin: 8px 0;
     float: right;
 }
+.logoslide h2{
+  text-align:center;
+  padding: 20px;
+}
+/* Slider */
+
+.logoslide .slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
 </style>
+<section class="container">
+
+                <div class="stat">
+                  <h2>Our Presence</h2>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="milestone-counter">
+                                <i class="fa fa-user fa-3x"></i>
+                                <span class="stat-count highlight">5012</span>
+                                <div class="milestone-details">Number of patients reached</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="milestone-counter">
+                                <i class="fa fa-coffee fa-3x"></i>
+                                <span class="stat-count highlight">26</span>
+                                <div class="milestone-details">Number of clinics</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="milestone-counter">
+                                <i class="fa fa-trophy fa-3x"></i>
+                                <span class="stat-count highlight">514</span>
+                                <div class="milestone-details">Number of years in industry</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="milestone-counter">
+                                <i class="fa fa-camera fa-3x"></i>
+                                <span class="stat-count highlight">22</span>
+                                <div class="milestone-details">Expertise</div>
+                            </div>
+                        </div>
+                </div><!-- stat -->
+              </section>
+
+
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> -->
+<!-- <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet"> -->
+
+
 <section>
   <div class="container-inner">
     <div class="row">
@@ -1045,10 +1142,172 @@
                   </div>
                </div>
             </section> -->
+            <style type="text/css">
+              
+
+
+.stat {
+   margin:10px auto;
+   text-align:center;
+}
+.highlight {
+   color:#3c3c3c;
+   padding:20px 0;
+   font-weight:bold;
+   display:block;
+   overflow:hidden;
+   margin-bottom:0;
+   font-size:48px;
+}
+.stat i {
+  color:#f7c221;
+}
+.milestone-details {
+   font-weight:bold;
+   font-size:18px;
+   color:#999;
+}
+
+            </style>
+
+            <section class="services">
+               <svg class="svg-bg" width="1920" height="437" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 437" enable-background="new 0 0 1920 437">
+                  <rect class="st0" width="1920" height="437"/>
+                  <path class="st1" d="M1388.5,325.1c-66.9,7.3-134.2,11-201.5,11c-406.8,0-782.7-48.3-1086.7-255.5C302.6,230,533.7,336,779,391.9 C993.3,389.8,1198.5,373.1,1388.5,325.1z"></path>
+                  <path class="st2" d="M1920,60c-156.6,133.4-336,215.8-531.5,265.1c183.3-20,362.5-67.7,531.5-141.6V60z"></path>
+                  <path class="st3" d="M1920,183.6V285c-212.6,92.9-446.3,146.6-691.9,152c-13.6,0.3-27.3,0.5-41.1,0.5c-13.9,0-27.7-0.2-41.5-0.5 c-123.4-2.7-246.1-17.8-366.5-45.1c214.3-2,419.5-18.8,609.5-66.7C1571.8,305.1,1751,257.4,1920,183.6z"></path>
+                  <path class="st4" d="M1228.1,437h-82.6c-123.4-2.7-246.2-17.8-366.5-45.1C533.7,336,302.6,230,100.3,80.5 c-12.1-8.3-24.1-16.8-36-25.5C42.5,38.9,21,21.9,0,4v235.5V437v27h1920v-27V285C1707.4,377.9,1473.7,431.6,1228.1,437z"></path>
+               </svg>
+               <div class="container-inner">
+                  <div class="row">
+                     <div class="col-xs-12 col-md-8 col-md-offset-2 text-center">
+                        <span class="subheading">Whatever your goal, you can achieve it with Vascular Surgeon</span>
+                        <h2>Whatever your goal, you can achieve it with Vascular Surgeon</h2>
+                     </div>
+                  </div>
+                  <div class="service-slider owl-carousel">
+                     <a class="service" href="#">
+                        <img src="img/site/Virtual-Livestream-Classes-Feature.jpg" title="Virtual Livestream Classes" alt="Virtual Livestream Classes">
+                        <h5>Virtual Livestream Classes</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Virtual Training" alt="Virtual Training">
+                        <h5>Virtual Training</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Personal-Training-2.jpg" title="Personal Training" alt="Personal Training">
+                        <h5>Personal Training</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Group-Training-2.jpg" title="Group Training" alt="Group Training">
+                        <h5>Group Training</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Performance Training" alt="Performance Training">
+                        <h5>Performance Training</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Online-Programming-2.jpg" title="Online Programming" alt="Online Programming">
+                        <h5>Online Programming</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Fundamentals-Course.jpg" title="Fundamentals Course" alt="Fundamentals Course">
+                        <h5>Fundamentals Course</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Serivces-Mobile-Personal-Training.jpg" title="Mobile Personal Training" alt="Mobile Personal Training">
+                        <h5>Mobile Personal Training</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Corporate-Fitness-1.jpg" title="Corporate Fitness" alt="Corporate Fitness">
+                        <h5>Corporate Fitness</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Nutrition.jpg" title="Nutrition" alt="Nutrition">
+                        <h5>Nutrition</h5>
+                     </a>
+                     <a class="service" href="#">
+                        <img src="img/site/Home-Services-Physio.jpg" title="Transform Physiotherapy" alt="Transform Physiotherapy">
+                        <h5>Transform Physiotherapy</h5>
+                     </a>
+                  </div>
+                  <div class="text-center">
+                     <a class="btn btn--white spaced" href="#">View All</a>
+                  </div>
+               </div>
+            </section>
+
+
+             <section class="container logoslide">
+  <h2>Our  Partners</h2>
+   <div class="customer-logos slider">
+      <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
+   </div>
+</section> 
+
+
+
+
+
+
+
+
+
+
             <section class="call-to-action">
                <svg class="svg-bg" width="1920" height="195" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 195" enable-background="new 0 0 1920 195">
                   <path d="M1084,86.8C796.7,212.7,435.3,228.7,0,134.8v60.3v43h1920v-43v-60.3C1650-23,1371.3-39.1,1084,86.8z"></path>
                </svg>
+               <style type="text/css">
+                 .hc-prospect-field input {
+    font-family: Flama,sans-serif;
+    font-size: 1rem;
+    border: 1px solid #f5f5f5;
+    padding: 10px;
+    background-color: #fff;
+    -webkit-transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    -o-transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    border-width: 2px;
+    margin: 0.5rem 0;
+    display: inline-block;
+}
+.hc-prospect-field{
+  display: inline-block;
+  width: 49%;
+}
+.hc-prospect-field-testarea{
+  display: inline-block;
+  width: 100% !important;
+}
+.hc-prospect-field-testarea textarea{
+  width: 99%;
+  background-color: #fff;
+    -webkit-transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    -o-transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    transition: border-color .29s cubic-bezier(.48,0,.12,1);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-width: 2px;
+    margin: 0.5rem 0;
+    display: inline-block;
+    padding: 10px;
+}
+               </style>
                <div class="container-inner">
                   <div class="row">
                      <div class="col-xs-12 col-sm-6 col-md-7">
@@ -1059,9 +1318,20 @@
                      <div class="col-xs-12 col-sm-6 col-md-5">
                         <div class="text">
                            <div>
-                              <span class="subheading">Membership</span>
-                              <h2>Keen on becoming part of our community?</h2>
-                              <p>Our Functional Fitness Fundamentals course is the perfect way for you to launch into training here at Vascular Surgeon. We'd love to help you launch into your fitness journey or to continue to sharpen your fitness focus and help you to take things to the next level.</p>
+                              <span class="subheading">Contact us</span>
+                              <h2>Get in touch</h2>
+                              <p>For all appointments and inquiries, please call 000 000 0000 or request an appointment online.</p>
+                              <br>
+                              <div class="hc-prospect-field hc-prospect-first-name">
+                                <input placeholder="Name" class="parsley-error">
+                              </div>
+                              <div class="hc-prospect-field hc-prospect-first-name">
+                                <input placeholder="Email" class="parsley-error">
+                              </div>
+                              <div class="hc-prospect-field-testarea  hc-prospect-first-name">
+                                <textarea rows="5" placeholder="Message"></textarea>
+                              </div>
+
                               <a class="btn btn--white spaced" href="#">Get Started</a>
                            </div>
                         </div>
@@ -1129,7 +1399,50 @@
 </div>
 
 <script type="text/javascript">
+$(document).ready(function(){
 
+  (function($) {
+    "use strict";
+    function count($this){
+    var current = parseInt($this.html(), 10);
+    current = current + 50; /* Where 50 is increment */  
+    $this.html(++current);
+      if(current > $this.data('count')){
+        $this.html($this.data('count'));
+      } else {    
+        setTimeout(function(){count($this)}, 50);
+      }
+    }         
+    $(".stat-count").each(function() {
+      $(this).data('count', parseInt($(this).html(), 10));
+      $(this).html('0');
+      count($(this));
+    });
+   })(jQuery);
+
+
+
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
+    });
+});
         // Get the modal
 var modal = document.getElementById("myModal");
 
