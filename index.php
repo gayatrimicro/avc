@@ -82,6 +82,14 @@
               color: #fff !important;
               border-color: #fff !important;
             }
+            .how-can{
+              font-family: 'Merriweather', serif;font-weight: 400;font-size: 60px; color: #03639a
+            }
+            @media (max-width: 769px){
+              .how-can{
+                font-family: 'Merriweather', serif;font-weight: 400;font-size: 40px; color: #03639a
+              }
+            }
          </style>
          <div id="content" class="site-content">
             <div class="your-class">
@@ -165,12 +173,12 @@
                </div>
             </section>
             
-            <section>
+            <section class="services-type">
                <div class="container-inner">
                   <div class="row">
                      <div class="col-xs-12 col-md-12 text-center">
                         <!-- <span class="subheading">FIND AN APPOINTMENT</span> -->
-                        <h2 style="font-family: 'Merriweather', serif;font-weight: 400;font-size: 60px; color: #03639a">How Can<br>
+                        <h2 class="how-can">How Can<br>
                            <span class="yellow-color"> We Help You?</span>
                         </h2>
                         <style type="text/css">
@@ -182,46 +190,74 @@
                            .cols-3{
                               width: 24%;
                               display: inline-block;
+                              cursor: pointer;
                            }
                            .cols-3 p{
                               font-size: 18px;
-                              margin-top: 5px;
+                              margin-top: 15px;
                            }
+                           .services-type .cols-3{
+                            transition: 1s;
+                           }
+                           .services-type .cols-3:hover{
+                              transform: scale(1.1);
+                           }
+                           .desc-services{
+                              font-size: 14px !important;
+                              margin-top: -12px !important;
+                              padding: 0px 2rem;
+                           }
+                           @media (max-width: 769px){
+                            .cols-3{
+                              width: 100%;
+                              display: inline-block;
+                              cursor: pointer;
+                           }
+                           }
+
                         </style>
                         <div class="rows">
                            <div class="cols-3">
                               <img src="img/treatment.svg" style="width: 50%;margin: 0 auto">
-                              <p><b>Varicose Vains </b></p>
+                              <p><b>Varicose Veins </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/access.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Hemodialysis Access  </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/stroke.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Stroke   </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/Aneurysms.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Aneurysms   </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                         </div>
                         <div class="rows">
                            <div class="cols-3">
                               <img src="img/Thoracic-Outlet-Syndrome.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Thoracic Outlet Syndrome   </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/Circulation-Problems.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Circulation Problems </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/Ulcers.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Ulcers In Legs </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                            <div class="cols-3">
                               <img src="img/treatment.svg" style="width: 50%;margin: 0 auto">
                               <p><b>Blood Flow To Bowels </b></p>
+                              <p class="desc-services">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
                            </div>
                         </div>
                         <!-- <div class="rows">
@@ -303,27 +339,33 @@
 }
 
 .why-choose-sbv .why-box h3 {
-   font-family: Avenir;
-   font-weight: 900;
-   font-size: 25px;
-   line-height: 32px;
-   color: #fff
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 32px;
+    color: #fff;
+    text-align: center;
 }
 
 .why-choose-sbv .why-box p {
-   font-family: 'Avenir Book';
-   font-size: 22px;
-   line-height: 32px;
-   letter-spacing: 0;
-   color: #fff
+       font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0;
+    color: #fff;
 }
 
 .why-choose-sbv .why-box p strong {
-   font-family: Avenir;
+   font-family: 'Montserrat', sans-serif;
    font-weight: 900
 }
 
 @media (max-width:767.98px) {
+  .col-md-4 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
    .why-choose-sbv {
       padding-top: 55px
    }
@@ -344,7 +386,7 @@
       line-height: 24px
    }
    .why-choose-sbv .why-box p strong {
-      font-family: Avenir;
+      font-family: 'Montserrat', sans-serif;
       font-weight: 900
    }
 }
@@ -419,8 +461,8 @@
       bottom: -5%
    }
    .home-running .round-home-info {
-      width: 214px;
-      height: 214px;
+      width: 304px;
+      height: 304px;
       left: -35%;
       margin-top: 0
    }
@@ -510,16 +552,15 @@
 }
 
 .home-testimonials .testimonial-area .testimonial-box .testi-text p {
-   font-family: Avenir;
-   font-weight: 500;
-   font-size: 22px;
-   line-height: 32px;
-   color: #fff;
-   font-style: italic
+   font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 32px;
+    color: #fff;
 }
 
 .home-testimonials .testimonial-area .testimonial-box .testi-text p.name {
-   font-family: Avenir;
+   font-family: 'Montserrat', sans-serif;
    font-weight: 900;
    font-size: 22px;
    line-height: 32px;
@@ -839,11 +880,25 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
+.insu-frame{
+  background: #88ddb7; padding: 30px; height: 300px; margin-top: 0px;
+}
+@media (max-width: 769px){
+  .slick-slide img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+}
 </style>
 <section class="container">
 
                 <div class="stat">
-                  <h2>Our Presence</h2>
+                  <!-- <span class="subheading">Vascular Surgeon</span> -->
+                  <!-- <h2>Our Presence</h2> -->
+                  <h2 class="how-can">Our
+                           <span class="yellow-color">Presence</span>
+                        </h2>
                         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                             <div class="milestone-counter">
                                 <i class="fa fa-user fa-3x"></i>
@@ -886,7 +941,7 @@
   <div class="container-inner">
     <div class="row">
       <div class="col-md-6 col-sm-12">
-        <div style="background: #0072BB; padding: 30px; height: 300px; margin-top: 0px; ">
+        <div class="insu-frame">
           <p class="primary-font" style="color: white; font-size: 30px;">Accepted Insurances</p>
           <p style="color: white; font-size: 18px;">For more insurance options please call our office.</p>
           <p style="margin-top: 30px;"><a style="text-decoration: none; padding: 10px 20px; border: solid 1px white; color: #fff; text-transform: uppercase; font-size: 12px; line-height: 12px;" href="/contactus">Contact Us</a></p>
@@ -1191,7 +1246,7 @@
                         <h5>Virtual Livestream Classes</h5>
                      </a>
                      <a class="service" href="#">
-                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Virtual Training" alt="Virtual Training">
+                        <img src="img/site/Home-Services-Fundamentals-Course.jpg" title="Virtual Training" alt="Virtual Training">
                         <h5>Virtual Training</h5>
                      </a>
                      <a class="service" href="#">
@@ -1203,7 +1258,7 @@
                         <h5>Group Training</h5>
                      </a>
                      <a class="service" href="#">
-                        <img src="img/site/Home-Services-Performance-Training-1.jpg" title="Performance Training" alt="Performance Training">
+                        <img src="img/site/Virtual-Livestream-Classes-Feature.jpg" title="Performance Training" alt="Performance Training">
                         <h5>Performance Training</h5>
                      </a>
                      <a class="service" href="#">
@@ -1219,7 +1274,7 @@
                         <h5>Mobile Personal Training</h5>
                      </a>
                      <a class="service" href="#">
-                        <img src="img/site/Home-Services-Corporate-Fitness-1.jpg" title="Corporate Fitness" alt="Corporate Fitness">
+                        <img src="img/site/Home-Services-Group-Training-2.jpg" title="Corporate Fitness" alt="Corporate Fitness">
                         <h5>Corporate Fitness</h5>
                      </a>
                      <a class="service" href="#">
@@ -1239,7 +1294,10 @@
 
 
              <section class="container logoslide">
-  <h2>Our  Partners</h2>
+  <!-- <h2>Our  Partners</h2> -->
+  <h2 class="how-can">Our
+                           <span class="yellow-color">Partners</span>
+                        </h2>
    <div class="customer-logos slider">
       <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
       <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
@@ -1266,10 +1324,10 @@
                   <path d="M1084,86.8C796.7,212.7,435.3,228.7,0,134.8v60.3v43h1920v-43v-60.3C1650-23,1371.3-39.1,1084,86.8z"></path>
                </svg>
                <style type="text/css">
-                 .hc-prospect-field input {
+                 .hc-prospect-field input, .hc-prospect-field select {
     font-family: Flama,sans-serif;
     font-size: 1rem;
-    border: 1px solid #f5f5f5;
+    border: 1px solid #dfdfdf;
     padding: 10px;
     background-color: #fff;
     -webkit-transition: border-color .29s cubic-bezier(.48,0,.12,1);
@@ -1571,7 +1629,27 @@ jQuery(document).ready(function() {
   cursor: pointer;
 }
 @media (max-width: 600px){
-   
+  .pop-content h1{
+         
+         font-size: 35px;
+         text-align: center;
+      }
+      .pop-content h1 span{      
+         font-size: 35px;
+      }
+      .margin-center{
+        width: 100%;
+      }
+      .avatar{
+        display: none;
+      }
+   .boxes-9{
+         width: 100%;
+         padding: 2rem 2rem
+      }
+      .boxes-3{
+         width: 100%
+      }
    .modal-content {
        background-color: #fefefe;
        margin: auto;
