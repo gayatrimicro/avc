@@ -22,61 +22,61 @@
                                  </a>
                               </li>
                               <li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Varicose-Vains">
                                     Varicose Vains
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Hemodialysis-Access">
                                     Hemodialysis Access
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Stroke">
                                     Stroke
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Aneurysms">
                                     Aneurysms
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Thoracic-Outlet-Syndrome">
                                     Thoracic Outlet Syndrome
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Circulation-Problems">
                                     Circulation Problems
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Ulcers-In-Legs">
                                     Ulcers In Legs
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Blood-Flow-To-Bowels">
                                     Blood Flow To Bowels
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Complex-Aortic-Dissection">
                                     Complex Aortic Dissection
                                     <div class="menu-description"> </div>
                                  </a>
                               </li>
                               <li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178">
-                                 <a href="#">
+                                 <a href="http://spacegm.com/personal-doctor/services/Graft-Infection">
                                     Graft Infection
                                     <div class="menu-description"> </div>
                                  </a>
@@ -98,7 +98,7 @@
                            </a>
                         </li>
                         <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
-                           <a href="#">
+                           <a href="http://spacegm.com/personal-doctor/contact">
                               Contact us
                               <div class="menu-description"> </div>
                            </a>
